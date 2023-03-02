@@ -3,4 +3,28 @@
     <string name="enter_your_name">Enter Your Name</string>
     <string name="name">Muhammad Saeed</string>
     <string name="yellow_star">YellowStar</string>
+    <string name="bio">
+        My name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+         \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+        \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed, \nMy name is Muhammad Saeed,
+    </string>
+    <string name="nickname_hint">Nickname</string>
+    <string name="done_btn">Done</string>
 </resources>
